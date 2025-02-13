@@ -15,7 +15,7 @@ then Press Enter.
 After completing the migration, the tables and seeded data should be in place. Verify this by checking the database directly.
 
 ### Running the Project
-Click the Play button to start the project (**https**).
+Click the Play button to start the project (**IIS Express**).
 
 The Swagger UI should open automatically. You can use this interface to test the API, or alternatively, use Postman.  
      
